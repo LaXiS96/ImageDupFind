@@ -1,3 +1,6 @@
 .vscode/
 [Bb]in/
 [Oo]bj/
+
+data.csv
+results.txt
